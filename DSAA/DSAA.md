@@ -28,6 +28,6 @@ Given is the attribute name, attribute type and abrief description
 |*Class*|*Examples*|*Description*|
 |----|----|----|
 |0|56470| students who drop the class
-|1|271|students who| pass the final exam|
+|1|271|students who pass the final exam|
 |2|1562|students who fail in the final exam|
 
