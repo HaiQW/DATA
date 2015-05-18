@@ -1,6 +1,8 @@
 #DSAA Date Set
 ## Attribute 
-*Data Set Characteristics*|   NU
+*Data Set Characteristics:* Integer|*Number of Instances:*58304
+---------------------------------------------------------------
+
 
 Multivariate
 ## Source 
