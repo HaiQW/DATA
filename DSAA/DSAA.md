@@ -9,12 +9,10 @@
 |*Associated Tasks* |Clustering|
 |*Missing Values*| No|
 
-
-Multivariate
 ## Source 
 DSAA is an open data set collected from a free popular course, data struct and algorithm, given by Zhejiang University in MOOC.
 
-##Attribute information
+##Attribute Information
 Given is the attribute name, attribute type and abrief description
 
 |*Name*|*DataType*|*Description*|
