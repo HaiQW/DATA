@@ -2,12 +2,12 @@
 ## Attribute 
 |*DESCRITION* |*VALUE*|
 |-------------|------------|
-|*Data Set Characteristics:* |Multivariate|
-|*Number of Instances:*| 58304|
-|*Attribute Characteristics:* |Real|
-|*Number of Attributes:*| 8 |
-|*Associated Tasks:* |Clustering|
-|*Missing Values?*| No|
+|*Data Set Characteristics* |Multivariate|
+|*Number of Instances*| 58304|
+|*Attribute Characteristics* |Real|
+|*Number of Attributes*| 8 |
+|*Associated Tasks* |Clustering|
+|*Missing Values*| No|
 
 
 Multivariate
